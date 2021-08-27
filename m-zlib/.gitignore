@@ -1,0 +1,6 @@
+#ignore
+aux/
+test/
+*o
+m-gzip
+m-zlib
